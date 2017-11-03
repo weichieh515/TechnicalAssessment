@@ -1,0 +1,13 @@
+C:\Users\jack.hsu71\Documents\TechnicalAssessment\BlowingGame\BlowingGame\obj\Debug\BlowingGame.csprojResolveAssemblyReference.cache
+C:\Users\jack.hsu71\Documents\TechnicalAssessment\BlowingGame\BlowingGame\obj\Debug\BlowingGame.csproj.CoreCompileInputs.cache
+C:\Users\jack.hsu71\Documents\TechnicalAssessment\BlowingGame\BlowingGame\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jack.hsu71\Documents\TechnicalAssessment\BlowingGame\BlowingGame\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jack.hsu71\Documents\TechnicalAssessment\BlowingGame\BlowingGame\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jack.hsu71\Documents\TechnicalAssessment\BlowingGame\BlowingGame\bin\Debug\BlowingGame.dll
+C:\Users\jack.hsu71\Documents\TechnicalAssessment\BlowingGame\BlowingGame\bin\Debug\BlowingGame.pdb
+C:\Users\jack.hsu71\Documents\TechnicalAssessment\BlowingGame\BlowingGame\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jack.hsu71\Documents\TechnicalAssessment\BlowingGame\BlowingGame\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jack.hsu71\Documents\TechnicalAssessment\BlowingGame\BlowingGame\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jack.hsu71\Documents\TechnicalAssessment\BlowingGame\BlowingGame\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jack.hsu71\Documents\TechnicalAssessment\BlowingGame\BlowingGame\obj\Debug\BlowingGame.dll
+C:\Users\jack.hsu71\Documents\TechnicalAssessment\BlowingGame\BlowingGame\obj\Debug\BlowingGame.pdb
